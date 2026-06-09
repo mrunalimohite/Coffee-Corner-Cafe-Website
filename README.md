@@ -115,19 +115,6 @@ A lightweight and highly customizable WordPress theme used as the foundation of 
 
 ---
 
-## 📸 Screenshots
-
-Add screenshots of:
-
-* Home Page
-* About Page
-* Menu Page
-* Gallery Page
-* Contact Page
-
-inside the `/screenshots` folder.
-
----
 
 ## 👩‍💻 Developed By
 
@@ -137,7 +124,7 @@ Frontend Developer | WordPress Developer
 
 GitHub: https://github.com/mrunalimohite
 
-LinkedIn: https://www.linkedin.com/in/mrunali-mohite
+LinkedIn: https://www.linkedin.com/in/mrunali-mohite-78226b2ba/
 
 ---
 
