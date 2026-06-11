@@ -6,6 +6,11 @@ Coffee Corner Cafe is a modern and responsive cafe website built using WordPress
 
 ---
 
+### 🔗 Live Demo
+https://coffeecorner.great-site.net/wp/
+
+---
+
 ## 🚀 Features
 
 * Responsive design for desktop, tablet, and mobile devices
